@@ -686,3 +686,8 @@ table {
 }
 
 /*css reset code end*/
+/*Css for header*/
+/* line 51, ../sass/styles.scss */
+h1 {
+  background: linear-gradient(to bottom, #f4f4f4, #ffffff);
+}
